@@ -1,9 +1,10 @@
 // ==UserScript==
-// @name         HN - colorize
-// @namespace    http://tampermonkey.net/
+// @name         HN - colorize links
+// @namespace    https://github.com/mintyPT/userscripts
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  Add a colorful underline to every link
+// @author       mintyPT
+// @license      MIT
 // @match        *://news.ycombinator.com/*
 // @grant        none
 // @require https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
