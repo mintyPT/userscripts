@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Hacker news - hide visited links
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/mintyPT/userscripts
 // @version      0.1
-// @description  try to take over the world!
-// @author       mg
+// @description  On click, hide link
+// @author       mintyPT
+// @license      MIT
 // @match        *://news.ycombinator.com/*
 // @grant        none
 // @require https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
