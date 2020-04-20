@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         HN - colorize links
 // @namespace    https://github.com/mintyPT/userscripts
-// @version      0.1
+// @version      0.2
 // @description  Add a colorful underline to every link
 // @author       mintyPT
 // @license      MIT
