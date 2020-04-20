@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hacker news - hide visited links
 // @namespace    https://github.com/mintyPT/userscripts
-// @version      0.1
+// @version      0.2
 // @description  On click, hide link
 // @author       mintyPT
 // @license      MIT
